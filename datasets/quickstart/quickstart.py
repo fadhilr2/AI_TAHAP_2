@@ -2,8 +2,13 @@ from TikTokApi import TikTokApi
 import asyncio
 import os
 import sys # Imported to check for Windows
+from dotenv import load_dotenv, find_dotenv
 
-ms_token="MS_TOKEN"
+load_dotenv(find_dotenv())
+
+
+ms_token=os.getenv("MS_TOKEN")
+print(ms_token)
 async def trending_videos():
     async with TikTokApi() as api:
         await api.create_sessions(ms_tokens=[ms_token], 
