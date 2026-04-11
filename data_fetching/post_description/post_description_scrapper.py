@@ -5,6 +5,10 @@ import sys
 import os
 import json
 import csv
+import time
+from pathlib import Path
+import pandas as pd
+import random
 
 load_dotenv(find_dotenv())
 
@@ -14,11 +18,27 @@ except ImportError:
     print("❌ TikTokApi not installed. Run: pip install TikTokApi playwright && playwright install chromium")
     sys.exit(1)
 
-BATCH_SIZE     = 50         # Comments per API request (TikTok's page size)
-DELAY_SECONDS  = 35        # Polite delay between requests (avoid rate limiting)
 MS_TOKEN       = os.getenv("MS_TOKEN")
 
-async def get_user_posts(username: str, limit: int = 30) -> list[dict]:
+def save_csv(posts: list[dict]) -> None:
+
+    SCRIPT_DIR = Path(__file__).resolve().parent
+    folder = SCRIPT_DIR / f"datasets/data.csv"
+    filepath = SCRIPT_DIR / folder
+
+    file_exists = os.path.isfile(filepath)
+
+    with open(filepath, "a", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=posts[0].keys())
+    
+        # Only write the header if the file is brand new
+        if not file_exists or os.path.getsize(filepath) == 0:
+            writer.writeheader()
+        writer.writerows(posts)
+
+    print(f"✅ CSV  saved → {filepath}")
+
+async def get_user_posts(username: str, limit: int = 100) -> list[dict]:
     """Fetch posts + descriptions from a TikTok user account."""
  
     posts = []
@@ -28,7 +48,7 @@ async def get_user_posts(username: str, limit: int = 30) -> list[dict]:
             ms_tokens=[MS_TOKEN] if MS_TOKEN else [],
             num_sessions=1,
             sleep_after=3,
-            headless=True,          # Set False to see the browser
+            headless=False,          # Set False to see the browser
         )
  
         user = api.user(username)
@@ -51,6 +71,9 @@ async def get_user_posts(username: str, limit: int = 30) -> list[dict]:
         print(f"Fetching up to {limit} posts from @{username} ...\n")
  
         async for video in user.videos(count=limit):
+            if len(posts) >= limit:
+                print(f"\nReached the limit of {limit} posts. Stopping fetch.")
+                break
             try:
                 vid_data = video.as_dict
  
@@ -72,12 +95,17 @@ async def get_user_posts(username: str, limit: int = 30) -> list[dict]:
                     "description" : description,
                     "hashtags"    : ", ".join(hashtags),
                 }
- 
+
+
                 posts.append(post)
+
+                save_csv([post])
  
                 # Pretty console output
                 print(video_id)
                 print()
+
+                await asyncio.sleep(random.uniform(5.0, 10.0))
  
             except Exception as e:
                 print(f"[Warning] Skipping a video due to error: {e}")
@@ -86,38 +114,22 @@ async def get_user_posts(username: str, limit: int = 30) -> list[dict]:
     return posts
 
 
-def save_json(posts: list[dict], filename: str) -> None:
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(posts, f, ensure_ascii=False, indent=2)
-    print(f"✅ JSON saved → {filename}")
-
-
-def save_csv(posts: list[dict], filename: str) -> None:
-    if not posts:
-        return
-    with open(filename, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=posts[0].keys())
-        writer.writeheader()
-        writer.writerows(posts)
-    print(f"✅ CSV  saved → {filename}")
-
-
 async def main():
-    TARGET_USERNAME = "funny.veb5"
-    
-    posts = await get_user_posts(TARGET_USERNAME, 10)
+
+    SCRIPT_DIR = Path(__file__).resolve().parent
+    filepath = SCRIPT_DIR / "accounts.json"
+    df = pd.read_json(filepath)
+    # 1 done
+    # 2 done
+    # 3 done
+    # 4 done
+    # 5 
+    posts = await get_user_posts(df["account_name"][4])
+
+
+        
  
-    if not posts:
-        print("No posts retrieved. Check username or add an msToken.")
-        return
- 
-    print(f"\n{'─'*55}")
-    print(f"  Total posts fetched: {len(posts)}")
-    print(f"{'─'*55}\n")
- 
-    # Save outputs
-    save_json(posts, f"tiktok_{TARGET_USERNAME}.json")
-    save_csv (posts, f"tiktok_{TARGET_USERNAME}.csv")
+
 
 if __name__ == "__main__":
     asyncio.run(main())
