@@ -2229,3 +2229,695 @@
 {"content": "Halo, saya yang kemarin beli sepatu boots. Keren. Kalau yang model flat shoes ada warna krem?", "label": 1}
 {"content": "Sore kak, kemarin pesan minuman kopi sachet. Praktis. Kalau yang kopi tubruk ada kemasan isi 10?", "label": 1}
 {"content": "Kak, mau tanya soal alat tulis. Kemarin beli pulpen gel. Kalau pensil mekanik yang ada penghapusnya ada?", "label": 1}
+{"content": "Kak, ini ready stock kan ya? Mau order nih.", "label": 1}
+{"content": "Ada promo ongkir ga nih buat pembelian hari ini?", "label": 1}
+{"content": "Kalau beli 5 pcs, bisa dapat diskon gak kak?", "label": 1}
+{"content": "Barangnya nyampe sekitar kapan ya kalau pesan sekarang?", "label": 1}
+{"content": "Ini bisa COD gak kak di daerah Jakarta Timur?", "label": 1}
+{"content": "Ada warna lain selain yang di foto?", "label": 1}
+{"content": "Kalau mau ambil langsung ke toko bisa gak?", "label": 1}
+{"content": "Bisa minta foto detailnya lagi gak kak?", "label": 1}
+{"content": "Kapan kira-kira restock lagi ya kak kalau habis?", "label": 1}
+{"content": "Ini bahannya apa ya kak? Awet gak?", "label": 1}
+{"content": "Kalau beli lebih dari 10 ada harga khusus?", "label": 1}
+{"content": " Ongkir ke Surabaya berapa ya kak?", "label": 1}
+{"content": "Bisa request ukuran?", "label": 1}
+{"content": "Kalau komplen barang rusak gimana ya prosedurnya?", "label": 1}
+{"content": "Ada garansi produk gak kak?", "label": 1}
+{"content": "Ini buat umur berapa ya cocoknya?", "label": 1}
+{"content": "Mau tanya dulu dong, ini original atau kw?", "label": 1}
+{"content": "Kalau mau jadi reseller ada syaratnya?", "label": 1}
+{"content": "Bisa kirim pakai ekspedisi apa aja?", "label": 1}
+{"content": "Kalau ada cacat sedikit boleh tukar gak?", "label": 1}
+{"content": "Ini udah termasuk baterai atau belum?", "label": 1}
+{"content": "Bisa bantu packing kadonya gak kak?", "label": 1}
+{"content": "Kalau beli sekarang, dikirim kapan?", "label": 1}
+{"content": "Ada rekomendasi produk serupa gak kak?", "label": 1}
+{"content": "Ini bisa di custom nama gak?", "label": 1}
+{"content": "Kalau mau order banyak untuk acara kantor, bisa dapat diskon?", "label": 1}
+{"content": "Ada minimum order gak kak untuk promo gratis ongkir?", "label": 1}
+{"content": "Kalau pesan malam ini, besok pagi dikirim?", "label": 1}
+{"content": "Bisa minta invoice lengkapnya?", "label": 1}
+{"content": "Barangnya tahan lama gak ya kalau disimpan?", "label": 1}
+{"content": "Kalau mau beli tapi belum punya uang pas, bisa cicil?", "label": 1}
+{"content": "Ada pilihan warna netral gak?", "label": 1}
+{"content": "Ini beratnya berapa gram ya?", "label": 1}
+{"content": "Kalau beli sekarang, bisa dapat bonus apa?", "label": 1}
+{"content": "Bisa bantu pilihkan ukuran yang pas?", "label": 1}
+{"content": "Kalau mau pesan 2 lusin, harganya jadi berapa?", "label": 1}
+{"content": "Pengirimannya aman gak kak buat barang pecah belah?", "label": 1}
+{"content": "Kalau ada promo bundling, produknya apa aja?", "label": 1}
+{"content": "Bisa kirim ke luar pulau Jawa gak?", "label": 1}
+{"content": "Kalau mau datang langsung, alamatnya di mana?", "label": 1}
+{"content": "Ini ada pilihan kemasan gift?", "label": 1}
+{"content": "Kalau beli satu lusin, ongkirnya ditanggung?", "label": 1}
+{"content": "Ada produk yang lebih hemat tapi kualitas mirip?", "label": 1}
+{"content": "Kalau mau retur, ongkirnya siapa yang tanggung?", "label": 1}
+{"content": "Bisa nego harga kalau beli banyak?", "label": 1}
+{"content": "Ini preorder atau ready stock?", "label": 1}
+{"content": "Kalau mau order tapi mau diambil sendiri, bisa?", "label": 1}
+{"content": "Ada diskon khusus buat pelanggan baru?", "label": 1}
+{"content": "Kalau beli sekarang, gratis ongkirnya sampai kapan?", "label": 1}
+{"content": "Kak, kalo pesan 5pcs, ada diskon khusus ga?", "label": 1}
+{"content": "Barangnya ready stock ga ya? Saya buru-buru nih.", "label": 1}
+{"content": "Ada minimal order untuk gratis ongkir ga?", "label": 1}
+{"content": "Bisa kirim ke daerah Depok ga kak? Ongkirnya berapa?", "label": 1}
+{"content": "Kalo mau ambil langsung di toko, bisa diskon?", "label": 1}
+{"content": "Ada promo bundling gitu ga kak?", "label": 1}
+{"content": "Kalau beli 10, bisa dapat harga reseller?", "label": 1}
+{"content": "Stoknya masih banyak ga? Takut kehabisan soalnya.", "label": 1}
+{"content": "Ongkirnya bisa nego ga kak?", "label": 1}
+{"content": "Kalo order hari ini, kapan sampainya?", "label": 1}
+{"content": "Ada promo cashback ga kak?", "label": 1}
+{"content": "Saya mau beli tapi mau dicicil, bisa?", "label": 1}
+{"content": "Kalau ada promo free ongkir lagi kabarin ya kak.", "label": 1}
+{"content": "Bisa minta foto detail produknya lagi?", "label": 1}
+{"content": "Ini bahannya bagus ga? Awet ga?", "label": 1}
+{"content": "Ada warna lain selain yang di foto?", "label": 1}
+{"content": "Kalau beli 2, ongkirnya jadi berapa?", "label": 1}
+{"content": "Bisa minta invoice detailnya?", "label": 1}
+{"content": "Kalau saya jadi beli, bisa dapat bonus?", "label": 1}
+{"content": "Ada stok warna biru ga?", "label": 1}
+{"content": "Kalo mau order banyak, ada diskon khusus?", "label": 1}
+{"content": "Bisa kirim ke luar pulau Jawa ga?", "label": 1}
+{"content": "Ada program loyalitas gitu ga kak?", "label": 1}
+{"content": "Barangnya mirip sama yang ini ga? Beda tipis.", "label": 1}
+{"content": "Kalau beli 3 dapat diskon ongkir?", "label": 1}
+{"content": "Kapan restock lagi ya kak?", "label": 1}
+{"content": "Ada promo akhir bulan?", "label": 1}
+{"content": "Kalau beli ukuran lebih besar, harganya beda?", "label": 1}
+{"content": "Ada rekomendasi produk yang mirip tapi lebih murah?", "label": 1}
+{"content": "Bisa minta nomor WA admin?", "label": 1}
+{"content": "Kalau beli 5 gratis ongkir?", "label": 1}
+{"content": "Ada paket hemat ga?", "label": 1}
+{"content": "Barangnya ori kan?", "label": 1}
+{"content": "Kalau mau lihat langsung, tokonya di mana?", "label": 1}
+{"content": "Ada promo flash sale hari ini?", "label": 1}
+{"content": "Kalau beli 2, bisa dikirim barengan?", "label": 1}
+{"content": "Bisa pilih ekspedisi tertentu?", "label": 1}
+{"content": "Ada diskon khusus buat pelanggan baru?", "label": 1}
+{"content": "Ini udah termasuk packing aman?", "label": 1}
+{"content": "Kalau beli lebih dari 1 lusin, ada harga spesial?", "label": 1}
+{"content": "Kalo mau order tapi datengnya minggu depan bisa?", "label": 1}
+{"content": "Ada promo bulan ini?", "label": 1}
+{"content": "Bisa bantu pilihkan ukuran yang pas?", "label": 1}
+{"content": "Kalau beli partai besar, bisa dinego?", "label": 1}
+{"content": "Kalo mau order custom, bisa?", "label": 1}
+{"content": "Ada testimoni pelanggan lain?", "label": 1}
+{"content": "Kalau beli 2, ongkirnya subsidi?", "label": 1}
+{"content": "Bisa kirim ke luar negeri?", "label": 1}
+{"content": "Ada penawaran khusus kalo ambil banyak?", "label": 1}
+{"content": "Kak, ready stock yang warna biru ga?", "label": 1}
+{"content": "Kalau beli 3, diskonnya jadi berapa ya?", "label": 1}
+{"content": "Bisa kirim ke daerah Depok ga kak?", "label": 1}
+{"content": "Ada promo ongkir untuk pembelian di atas 100 ribu?", "label": 1}
+{"content": "Minimum ordernya berapa pcs nih?", "label": 1}
+{"content": "Kalau ambil 5, ada bonus apa?", "label": 1}
+{"content": "Apakah barang ini ready stock sekarang?", "label": 1}
+{"content": "Bisa nego harga kalau ambil banyak?", "label": 1}
+{"content": "Kak, daerah Tambun masih masuk area gratis ongkir?", "label": 1}
+{"content": "Ada paket bundling yang lebih hemat ga?", "label": 1}
+{"content": "Kalau saya mau pesan 10, harganya bisa kurang?", "label": 1}
+{"content": "Produk ini ready ga kak? Soalnya mau dipakai minggu ini.", "label": 1}
+{"content": "Bisa minta free ongkir kalau pembelian kedua?", "label": 1}
+{"content": "Ongkir ke Bandung berapa ya?", "label": 1}
+{"content": "Kalau beli 2 dapat potongan harga ga?", "label": 1}
+{"content": "Ada stok warna merah ga kak?", "label": 1}
+{"content": "Syarat dapat promo cashback itu gimana?", "label": 1}
+{"content": "Bisa COD di daerah Cikarang?", "label": 1}
+{"content": "Kalau beli satuan, ongkirnya jadi berapa?", "label": 1}
+{"content": "Kak, ini yang ukuran XL udah restock?", "label": 1}
+{"content": "Ada penawaran khusus buat reseller?", "label": 1}
+{"content": "Kalau pesan hari ini, kapan sampainya?", "label": 1}
+{"content": "Ada promo bulan ini?", "label": 1}
+{"content": "Bisa kirim pakai kurir instan ga?", "label": 1}
+{"content": "Kak, kalau beli banyak, ongkirnya bisa ditanggung?", "label": 1}
+{"content": "Stok barangnya banyak?", "label": 1}
+{"content": "Berapa minimal pembelian untuk dapat diskon?", "label": 1}
+{"content": "Saya mau pesan 2 lusin, ada harga spesial?", "label": 1}
+{"content": "Kalau mau diantar ke Bogor, ongkirnya berapa?", "label": 1}
+{"content": "Ada promo beli 2 gratis 1?", "label": 1}
+{"content": "Kak, kalau beli produk A dan B, ada diskon gabungan?", "label": 1}
+{"content": "Kapan barang ini restock lagi?", "label": 1}
+{"content": "Kalau beli 5 pcs, gratis ongkir?", "label": 1}
+{"content": "Ada promo pembayaran tempo?", "label": 1}
+{"content": "Bisa kirim ke luar pulau?", "label": 1}
+{"content": "Kak, kalau beli sekarang, dapat bonus apa?", "label": 1}
+{"content": "Stok yang warna hitam masih ada?", "label": 1}
+{"content": "Minimal order untuk grosir berapa?", "label": 1}
+{"content": "Kalau beli 3, ongkirnya cuma bayar 1?", "label": 1}
+{"content": "Ada promo akhir tahun?", "label": 1}
+{"content": "Bisa COD di Surabaya?", "label": 1}
+{"content": "Kak, kalau beli buat seragam, harganya bisa kurang?", "label": 1}
+{"content": "Barang ini ready stock ga kak? Butuh cepat.", "label": 1}
+{"content": "Kalau ambil 10, bisa dapat harga distributor?", "label": 1}
+{"content": "Ada promo gratis ongkir minimal pembelian berapa?", "label": 1}
+{"content": "Kalau beli 2, ongkirnya jadi berapa?", "label": 1}
+{"content": "Stok yang ukuran M udah ada?", "label": 1}
+{"content": "Bisa cicilan tanpa kartu kredit?", "label": 1}
+{"content": "Kak, kalau beli borongan ada potongan harga?", "label": 1}
+{"content": "Kak, mau tanya dong. Itu kalo pesen sekarang, kira-kira nyampe kapan ya?", "label": 1}
+{"content": "Ini produknya ready stock ga sih kak? Soalnya butuh cepet.", "label": 1}
+{"content": "Ada promo ongkir ga kak buat pembelian di atas 100 ribu?", "label": 1}
+{"content": "Kalo mau beli partai, ada diskon khusus gak ya?", "label": 1}
+{"content": "Bisa COD gak kak? Daerah saya di Jakarta Barat.", "label": 1}
+{"content": "Kalau beli 3 pcs, ada harga spesial gak kak?", "label": 1}
+{"content": "Ini bahannya katun beneran kan? Kalo beda, bisa retur?", "label": 1}
+{"content": "Ongkirnya lumayan ya kak. Ada opsi yang lebih murah gak?", "label": 1}
+{"content": "Udah di-chat dari kemarin, kok belum dibales ya? Mau order nih.", "label": 1}
+{"content": "Kalo warna yang ini restock kapan kak?", "label": 1}
+{"content": "Syarat dapetin free ongkir apa aja kak?", "label": 1}
+{"content": "Bisa kirim pakai go-send instan ga kak?", "label": 1}
+{"content": "Minat banget sama produk ini, tapi nunggu gajian dulu. Kapan kira-kira habisnya?", "label": 1}
+{"content": "Kalo beli lebih dari 5, bisa dapet diskon tambahan?", "label": 1}
+{"content": "Ada ukuran XL gak kak? Di gambar kok gak ada.", "label": 1}
+{"content": "Ongkir ke Surabaya berapa ya kak kalau pakai ekspedisi X?", "label": 1}
+{"content": "Pengen beli tapi ragu, soalnya baru pertama kali belanja di sini.", "label": 1}
+{"content": "Kalo barangnya cacat, garansi pengembaliannya gimana kak?", "label": 1}
+{"content": "Ada harga grosir gak kak buat reseller?", "label": 1}
+{"content": "Kalau pesan sekarang, bisa dikirim hari ini juga?", "label": 1}
+{"content": "Ini PO atau ready stock kak? Bingung.", "label": 1}
+{"content": "Bisa sekalian pasang gak kak produknya?", "label": 1}
+{"content": "Kalo beli 2, ongkirnya jadi berapa?", "label": 1}
+{"content": "Mau tanya, ini cocok buat kulit sensitif gak?", "label": 1}
+{"content": "Ada pilihan warna lain gak selain yang di katalog?", "label": 1}
+{"content": "Kalo beli langsung ke toko, bisa dapat diskon?", "label": 1}
+{"content": "Ini preorder kan ya? Kalo DP dulu, sisanya kapan bayarnya?", "label": 1}
+{"content": "Syarat jadi reseller gimana kak?", "label": 1}
+{"content": "Kalau mau ambil sendiri di tempat, bisa gak?", "label": 1}
+{"content": "Ada paket bundling gak kak buat produk ini?", "label": 1}
+{"content": "Kalo beli 10 biji, ada harga spesial gak?", "label": 1}
+{"content": "Bisa rekber gak kak?", "label": 1}
+{"content": "Ongkirnya kok beda ya sama yang dihitung waktu checkout?", "label": 1}
+{"content": "Kalau mau beli tapi mau dikirim nanti minggu depan, bisa?", "label": 1}
+{"content": "Ini bahannya tebal gak kak?", "label": 1}
+{"content": "Ada pilihan metode pembayaran lain selain transfer bank?", "label": 1}
+{"content": "Kalo beli sekarang, dapat bonus apa kak?", "label": 1}
+{"content": "Tolong infoin dong kalo barang ini restock lagi.", "label": 1}
+{"content": "Kalau mau beli 3, tapi beda model, kena harga grosir gak?", "label": 1}
+{"content": "Daerah saya masuk zona pengiriman gratis gak kak?", "label": 1}
+{"content": "Ini ori gak kak? Suka was-was beli online.", "label": 1}
+{"content": "Kalo beli buat kado, bisa dibungkusin kado?", "label": 1}
+{"content": "Ada minimum order gak kak buat produk ini?", "label": 1}
+{"content": "Bisa nego harga gak kak?", "label": 1}
+{"content": "Kalau beli banyak, ada diskon ongkir?", "label": 1}
+{"content": "Kapan promo free ongkirnya berakhir kak?", "label": 1}
+{"content": "Ini produknya tahan berapa lama ya?", "label": 1}
+{"content": "Mau pesan tapi lokasinya agak jauh nih, pengirimannya bisa cepet?", "label": 1}
+{"content": "Kalau beli 5 bisa dapat diskon?", "label": 1}
+{"content": "Ada panduan cara pakainya gak kak?", "label": 1}
+{"content": "Kak, kalau order hari ini, dikirim kapan ya?", "label": 1}
+{"content": "Ada promo free ongkir gak kak buat pembelian pertama?", "label": 1}
+{"content": "Ini barangnya ready stock atau PO dulu kak?", "label": 1}
+{"content": "Kalau beli 5 pcs, ada diskon khusus gak?", "label": 1}
+{"content": "Saya mau pesan, tapi bisa COD di area Jakarta Selatan gak?", "label": 1}
+{"content": "Kapan kira-kira restock lagi kak untuk produk yang ini?", "label": 1}
+{"content": "Kalau mau beli partai besar, harganya bisa nego lagi?", "label": 1}
+{"content": "Ada bonus pembelian gak kak kalau saya beli lebih dari 100 ribu?", "label": 1}
+{"content": "Bisa minta foto detail barangnya lagi kak?", "label": 1}
+{"content": "Kalau ongkirnya lebih mahal dari harga barangnya, gimana dong kak?", "label": 1}
+{"content": "Ini bahannya apa ya kak? Agak ragu nih.", "label": 1}
+{"content": "Ada ukuran lain gak kak selain yang tertera?", "label": 1}
+{"content": "Kalau saya pesan sekarang, kira-kira sampai sebelum weekend gak?", "label": 1}
+{"content": "Mau tanya dong, ini sama produk sebelah bedanya apa ya?", "label": 1}
+{"content": "Bisa request warna tertentu gak kak?", "label": 1}
+{"content": "Kalau barangnya cacat waktu sampai, bisa retur gak kak?", "label": 1}
+{"content": "Ada rekomendasi produk lain yang mirip tapi lebih murah gak kak?", "label": 1}
+{"content": "Ongkir ke Surabaya berapa ya kak kalau pakai ekspedisi X?", "label": 1}
+{"content": "Kalau beli 2, dapat harga spesial gak kak?", "label": 1}
+{"content": "Jam berapa toko buka kak? Mau mampir langsung.", "label": 1}
+{"content": "Ini udah termasuk packing bubble wrap kan ya?", "label": 1}
+{"content": "Kalau mau jadi reseller, minimal order berapa kak?", "label": 1}
+{"content": "Ada produk baru gak kak yang mirip tapi lebih update?", "label": 1}
+{"content": "Kalau saya pesan 10, bisa dapat diskon ongkir gak?", "label": 1}
+{"content": "Kapan promo bulan ini berakhir kak?", "label": 1}
+{"content": "Bisa kirim pakai instan kurir gak kak?", "label": 1}
+{"content": "Kalau barangnya habis, apa ada opsi pre-order?", "label": 1}
+{"content": "Saya baru pertama kali belanja di sini, ada tips gak kak?", "label": 1}
+{"content": "Kalau mau tanya-tanya dulu boleh kan kak?", "label": 1}
+{"content": "Ada garansi produk gak kak?", "label": 1}
+{"content": "Kalau beli 3 dapat gratis ongkir gak kak?", "label": 1}
+{"content": "Ini bisa cicilan gak kak?", "label": 1}
+{"content": "Ongkirnya kok mahal banget ya kak?", "label": 1}
+{"content": "Kalau mau lihat testimoni pelanggan lain gimana kak?", "label": 1}
+{"content": "Ada diskon khusus buat pelajar gak kak?", "label": 1}
+{"content": "Kalau beli langsung di toko, harganya sama?", "label": 1}
+{"content": "Bisa request motif tertentu gak kak?", "label": 1}
+{"content": "Kalau pesan sekarang, sampainya kapan ya kak?", "label": 1}
+{"content": "Ada promo bundling gak kak?", "label": 1}
+{"content": "Kalau beli lebih dari 2, ongkirnya jadi berapa?", "label": 1}
+{"content": "Kapan barang ini mulai dijual?", "label": 1}
+{"content": "Kalau saya mau pesan 50 pcs, harganya bisa dikasih berapa?", "label": 1}
+{"content": "Ada promo khusus hari ini gak kak?", "label": 1}
+{"content": "Kalau ambil di tempat bisa gak kak?", "label": 1}
+{"content": "Ini bahannya adem gak kak buat dipakai sehari-hari?", "label": 1}
+{"content": "Ada promo akhir tahun gak kak?", "label": 1}
+{"content": "Kalau beli 2 dapat potongan harga gak?", "label": 1}
+{"content": "Barangnya ready di cabang mana aja kak?", "label": 1}
+{"content": "Kalau mau retur ongkir ditanggung siapa kak?", "label": 1}
+{"content": "Kapan kira-kira ada stok lagi kak?", "label": 1}
+{"content": "Kak, kalau aku pesen 5 pcs, boleh dapet diskon gak?", "label": 1}
+{"content": "Ready stock yg warna biru ga ya?", "label": 1}
+{"content": "Minim ordernya berapa nih buat gratis ongkir?", "label": 1}
+{"content": "Bisa kirim ke daerah Jakarta Selatan ga?", "label": 1}
+{"content": "Ada promo khusus buat pembelian pertama gak?", "label": 1}
+{"content": "Kalau beli 2, ongkirnya jadi berapa?", "label": 1}
+{"content": "Produk ini ready kapan ya? Kapan bisa dikirim?", "label": 1}
+{"content": "Ada minimum pembelian buat dapat harga grosir?", "label": 1}
+{"content": "Apakah bisa COD di area Bandung?", "label": 1}
+{"content": "Kapan ada promo lagi kak?", "label": 1}
+{"content": "Kalau ambil 10, boleh minta diskon spesial?", "label": 1}
+{"content": "Yang ukuran L masih ada stoknya?", "label": 1}
+{"content": "Untuk ongkir ke Surabaya berapa ya, kalau beli 3?", "label": 1}
+{"content": "Ada syarat khusus gak buat dapat cashback?", "label": 1}
+{"content": "Kalau pesan lebih dari 5, ada potongan harga?", "label": 1}
+{"content": "Stock barangnya banyak gak kak?", "label": 1}
+{"content": "Bisa kirim ke luar pulau jawa ga?", "label": 1}
+{"content": "Promo bundlingnya masih berlaku?", "label": 1}
+{"content": "Kalau beli 1 lusin, harganya bisa nego?", "label": 1}
+{"content": "Warna hijau ready ya?", "label": 1}
+{"content": "Berapa minimal order buat free ongkir?", "label": 1}
+{"content": "Bisa kirim ke Kalimantan ga?", "label": 1}
+{"content": "Ada diskon khusus pelanggan baru?", "label": 1}
+{"content": "Kalau beli 3 sekaligus, ada bonus?", "label": 1}
+{"content": "Produk ini restocknya kapan kak?", "label": 1}
+{"content": "Min ordernya berapa ya biar dapet subsidi ongkir?", "label": 1}
+{"content": "Bisa kirim ke daerah pinggiran Jakarta?", "label": 1}
+{"content": "Ada promo hemat ongkir ga?", "label": 1}
+{"content": "Kalau beli 5, ongkirnya jadi berapa?", "label": 1}
+{"content": "Stock yang warna merah ada?", "label": 1}
+{"content": "Ada minimum pembelian untuk reseller?", "label": 1}
+{"content": "Bisa dikirim ke luar negeri?", "label": 1}
+{"content": "Promo akhir bulan masih ada?", "label": 1}
+{"content": "Kalau beli 4, boleh nego harga?", "label": 1}
+{"content": "Barang ini ready stock hari ini?", "label": 1}
+{"content": "Berapa minimal pembelian buat dapat diskon?", "label": 1}
+{"content": "Bisa kirim ke Bali?", "label": 1}
+{"content": "Ada promo lebaran?", "label": 1}
+{"content": "Kalau beli 6, ada potongan harga?", "label": 1}
+{"content": "Stock yang warna hitam habis ya?", "label": 1}
+{"content": "Minimal order berapa untuk jadi agen?", "label": 1}
+{"content": "Bisa kirim ke Sumatera?", "label": 1}
+{"content": "Promo flash sale masih ada?", "label": 1}
+{"content": "Kalau beli 2, ongkirnya gimana?", "label": 1}
+{"content": "Produk ini ready banyak?", "label": 1}
+{"content": "Ada promo khusus event tertentu?", "label": 1}
+{"content": "Kalau beli 7, bisa diskon?", "label": 1}
+{"content": "Minim order berapa ya biar dapet diskon?", "label": 1}
+{"content": "Bisa kirim ke Sulawesi?", "label": 1}
+{"content": "Ada promo bundling lagi gak?", "label": 1}
+{"content": "Kak, kalo mau ambil 5 produk, ada diskon khusus ga ya?", "label": 1}
+{"content": "Ini barangnya ready stock kan ya? Soalnya butuh cepat.", "label": 1}
+{"content": "Ada promo ongkir untuk pembelian di atas 100 ribu?", "label": 1}
+{"content": "Bisa dikirim ke daerah Bogor ga kak? Kalo bisa, ongkirnya berapa?", "label": 1}
+{"content": "Kalau saya pesan hari ini, kira-kira kapan sampainya ya?", "label": 1}
+{"content": "Ada pilihan warna lain ga selain yang di foto?", "label": 1}
+{"content": "Bisa pesan satu lusin ga? Ada harga spesial?", "label": 1}
+{"content": "Ongkirnya bisa digratiskan kalau beli 2 item?", "label": 1}
+{"content": "Ini bahan bajunya apa ya kak? Adem ga?", "label": 1}
+{"content": "Kalau mau ambil banyak, bisa nego harga?", "label": 1}
+{"content": "Ada promo bundling untuk produk ini?", "label": 1}
+{"content": "Kalo mau bayar COD, bisa ga kak?", "label": 1}
+{"content": "Barangnya aman kalau dikirim jauh?", "label": 1}
+{"content": "Ada garansi kalau barangnya rusak?", "label": 1}
+{"content": "Kalau saya mau beli 10 pcs, ada harga grosir?", "label": 1}
+{"content": "Produk ini cocok buat kulit sensitif ga?", "label": 1}
+{"content": "Bisa di-packing kardus biar lebih aman?", "label": 1}
+{"content": "Ada promo free ongkir kalau pembelian pertama?", "label": 1}
+{"content": "Kalo mau custom ukuran, bisa?", "label": 1}
+{"content": "Pengiriman dari mana ya kak?", "label": 1}
+{"content": "Ada diskon khusus buat member baru?", "label": 1}
+{"content": "Kalau beli 3, ongkirnya jadi berapa ya ke Surabaya?", "label": 1}
+{"content": "Ini produknya original kan?", "label": 1}
+{"content": "Bisa pesan ukuran yang lebih besar?", "label": 1}
+{"content": "Ada promo buy 1 get 1 ga?", "label": 1}
+{"content": "Kalau mau ambil partai besar, harganya beda?", "label": 1}
+{"content": "Barangnya tahan berapa lama ya?", "label": 1}
+{"content": "Bisa kirim ke luar pulau?", "label": 1}
+{"content": "Ada promo cashback?", "label": 1}
+{"content": "Kalau beli 5, dapat bonus apa?", "label": 1}
+{"content": "Ini ukurannya pas ga ya? Takut kekecilan.", "label": 1}
+{"content": "Ada promo akhir tahun?", "label": 1}
+{"content": "Kalau pesan sekarang, bisa dikirim besok pagi?", "label": 1}
+{"content": "Bisa sekalian minta dibungkus kado?", "label": 1}
+{"content": "Ada promo khusus hari kemerdekaan?", "label": 1}
+{"content": "Kalau beli 2, ada diskon ongkir ga?", "label": 1}
+{"content": "Ini bahannya awet ga kak?", "label": 1}
+{"content": "Kalo mau ambil 20 pcs, harganya berapa?", "label": 1}
+{"content": "Ada promo gratis ongkir tanpa minimal pembelian?", "label": 1}
+{"content": "Kalau mau datang langsung ke toko, bisa?", "label": 1}
+{"content": "Ini model terbarunya kan?", "label": 1}
+{"content": "Ada promo bulan puasa?", "label": 1}
+{"content": "Kalau beli 4, bisa dapat harga grosir?", "label": 1}
+{"content": "Barangnya udah di cek kualitasnya?", "label": 1}
+{"content": "Bisa dikirim ke Kalimantan Selatan?", "label": 1}
+{"content": "Ada promo beli banyak lebih hemat?", "label": 1}
+{"content": "Kalau mau pesan untuk acara kantor, bisa?", "label": 1}
+{"content": "Ini ada stok warna hitam ga?", "label": 1}
+{"content": "Kak, mau order yang ini dong, tapi kalau ongkirnya bisa gratis gimana?", "label": 1}
+{"content": "Ada promo apa lagi nih buat pembelian kedua?", "label": 1}
+{"content": "Barangnya ready stock kan ya? Kalau iya, mau order deh.", "label": 1}
+{"content": "Kalau beli 5 pcs, ada diskon khusus nggak?", "label": 1}
+{"content": "Bisa kirim ke daerah Cikarang nggak, Kak?", "label": 1}
+{"content": "Halo, mau nanya, kalau mau jadi reseller ada syarat minimum order?", "label": 1}
+{"content": "Kak, kalau order sekarang, kira-kira sampai kapan ya nyampenya?", "label": 1}
+{"content": "Ada warna lain nggak selain yang di katalog?", "label": 1}
+{"content": "Kalau saya mau custom ukuran, bisa?", "label": 1}
+{"content": "Kak, untuk produk ini, garansinya berapa lama?", "label": 1}
+{"content": "Kalau beli 2 item, ongkirnya jadi berapa ya?", "label": 1}
+{"content": "Ada bonus apa kalau beli dalam jumlah banyak?", "label": 1}
+{"content": "Produk ini masih ada stoknya kan?", "label": 1}
+{"content": "Kalau COD bisa nggak, Kak?", "label": 1}
+{"content": "Bisa sekalian minta tolong dibungkus kado?", "label": 1}
+{"content": "Kak, kalau mau pakai ekspedisi lain bisa?", "label": 1}
+{"content": "Kapan ada promo free ongkir lagi?", "label": 1}
+{"content": "Kalau saya pesen hari ini, dikirimnya kapan?", "label": 1}
+{"content": "Ada rekomendasi produk yang mirip tapi lebih murah?", "label": 1}
+{"content": "Kalau beli 10, dapet harga grosir?", "label": 1}
+{"content": "Bisa dikirim ke luar pulau Jawa nggak?", "label": 1}
+{"content": "Kak, kalau mau retur barang gimana prosedurnya?", "label": 1}
+{"content": "Kalau beli paket, bisa pilih itemnya sendiri?", "label": 1}
+{"content": "Ada cashback nggak kalau bayar pakai e-wallet tertentu?", "label": 1}
+{"content": "Ini produk asli bukan sih?", "label": 1}
+{"content": "Kak, mau nanya dong, kalau mau ambil langsung ke toko bisa?", "label": 1}
+{"content": "Ada promo bundling nggak buat produk ini?", "label": 1}
+{"content": "Kalau beli sekarang, bisa dapat bonus gift?", "label": 1}
+{"content": "Pengiriman ke Depok kena ongkir berapa?", "label": 1}
+{"content": "Kak, bisa minta invoice detailnya?", "label": 1}
+{"content": "Kalau stoknya habis, kapan restock lagi?", "label": 1}
+{"content": "Ada opsi pembayaran cicilan?", "label": 1}
+{"content": "Kalau beli banyak, apa packagingnya aman?", "label": 1}
+{"content": "Kak, mau order tapi mau dikirim besok pagi, bisa?", "label": 1}
+{"content": "Ada promo khusus event tertentu nggak?", "label": 1}
+{"content": "Kalau saya jadi agen, dapat keuntungan apa aja?", "label": 1}
+{"content": "Produk ini cocok buat kulit sensitif?", "label": 1}
+{"content": "Kak, kalau mau tukar ukuran bisa?", "label": 1}
+{"content": "Ada opsi pengiriman express?", "label": 1}
+{"content": "Kalau beli untuk hadiah, bisa sekalian kartu ucapan?", "label": 1}
+{"content": "Bagaimana cara klaim garansi kalau ada kerusakan?", "label": 1}
+{"content": "Kalau beli sekarang, dapat diskon tanggal muda?", "label": 1}
+{"content": "Kak, mau tanya, minimal pembelian berapa biar dapat harga reseller?", "label": 1}
+{"content": "Ada promo pelajar di hari biasa?", "label": 1}
+{"content": "Kalau beli di hari libur, pengirimannya gimana?", "label": 1}
+{"content": "Kak, bisa rekber nggak?", "label": 1}
+{"content": "Kalau beli lebih dari 3, ada diskon tambahan?", "label": 1}
+{"content": "Saya mau pesan, tapi mau bayarnya nanti pas barang sampai.", "label": 1}
+{"content": "Produk ini udah BPOM?", "label": 1}
+{"content": "Kak, mau dong dipesenin blouse yg peach itu. Tapi kalo bisa pengirimannya besok pagi ya?", "label": 1}
+{"content": "Ada diskon lagi gak kak kalo aku beli 5 pcs kaos polosnya?", "label": 1}
+{"content": "Sis, baju couple yg ini masih ready gak? Ukuran L nya ada?", "label": 1}
+{"content": "Mau nanya dulu, ini kalo mau dibeli grosir minimal berapa pcs ya?", "label": 1}
+{"content": "Halo, mau order sepatu boots ini. Tapi boleh gak kalau COD ke daerah Tebet?", "label": 1}
+{"content": "Kak, ini orderan yg kemarin kok belum sampe ya? Udah 3 hari lho.", "label": 1}
+{"content": "Permisi, ada promo free ongkir gak buat pembelian di atas 200 ribu?", "label": 1}
+{"content": "Sist, tas selempang yg warna hitam itu masih ada stoknya gak?", "label": 1}
+{"content": "Kalau beli satu lusin kerudung pasmina, harganya bisa nego lagi?", "label": 1}
+{"content": "Mau tanya, ini baju anak bisa dikirim ke luar pulau Jawa gak ya?", "label": 1}
+{"content": "Kak, kemeja flanel yg motif kotak ini ukurannya XL masih ada?", "label": 1}
+{"content": "Bisa minta foto detailnya tas yg warna coklat itu gak? Mau mastiin dulu.", "label": 1}
+{"content": "Ada promo khusus buat pembelian pertama kali gak kak?", "label": 1}
+{"content": "Mau order sepatu sneakers ini, tapi stoknya ukuran 41 masih ada?", "label": 1}
+{"content": "Kak, ini kalau beli 2 dapat potongan harga berapa persen?", "label": 1}
+{"content": "Bisa kirim pakai GoSend instant gak? Mau buru-buru soalnya.", "label": 1}
+{"content": "Sis, mau tanya dulu sebelum order. Ini bahan bajunya adem gak ya?", "label": 1}
+{"content": "Kak, kalau beli banyak, bisa dapat harga reseller?", "label": 1}
+{"content": "Saya mau pesan gamis ini, tapi stok warna birunya masih ada?", "label": 1}
+{"content": "Ada promo bundling gak kak untuk produk skincare ini?", "label": 1}
+{"content": "Mau beli dress ini, tapi kalau dikirim ke Surabaya ongkirnya berapa ya?", "label": 1}
+{"content": "Kak, ini sepatunya ori atau replika?", "label": 1}
+{"content": "Kalau saya pesan 10 pcs, ada harga spesial gak?", "label": 1}
+{"content": "Permisi, pengiriman barangnya aman gak ya? Takut rusak di jalan.", "label": 1}
+{"content": "Sist, mau order jaket kulit ini. Tapi stok ukuran M nya udah habis?", "label": 1}
+{"content": "Ada diskon khusus gak kak buat pembelian di hari ulang tahun toko?", "label": 1}
+{"content": "Kak, ini celana jeansnya kalau beli 3 bisa dapat diskon ongkir?", "label": 1}
+{"content": "Bisa COD di sekitar Monas gak ya? Mau coba dulu bajunya.", "label": 1}
+{"content": "Mau tanya, ini produknya ready stock semua atau pre-order?", "label": 1}
+{"content": "Sis, kalau beli paket hemat, ada bonus apa aja?", "label": 1}
+{"content": "Kak, mau pesan jam tangan ini, tapi pengirimannya bisa dipercepat?", "label": 1}
+{"content": "Ada promo beli 1 gratis 1 gak kak untuk produk tertentu?", "label": 1}
+{"content": "Mau order sepatu lari ini. Tapi stok ukuran 43 masih ada?", "label": 1}
+{"content": "Kalau beli 5 kg beras, ada potongan harga khusus?", "label": 1}
+{"content": "Kak, ini bajunya bisa tukar ukuran gak kalau kekecilan?", "label": 1}
+{"content": "Permisi, kalau kirim ke Bali kena ongkir berapa?", "label": 1}
+{"content": "Sist, mau nanya dulu, ini tas punggungnya cukup buat laptop 15 inch?", "label": 1}
+{"content": "Ada promo cashback gak kak kalau pembayaran via e-wallet?", "label": 1}
+{"content": "Kak, ini gamis syar'i nya cocok buat acara formal?", "label": 1}
+{"content": "Mau beli sandal gunung ini, tapi stok warna hijau nya ada?", "label": 1}
+{"content": "Kalau beli lebih dari 10 pcs, dapat harga grosir kan?", "label": 1}
+{"content": "Bisa minta foto asli produknya gak? Biar yakin.", "label": 1}
+{"content": "Kak, ada promo ongkir gratis untuk pembelian di atas 300 ribu?", "label": 1}
+{"content": "Mau pesan sepatu boots ini, tapi bisa COD ke Bandung?", "label": 1}
+{"content": "Sist, ini jaketnya waterproof atau cuma tahan air?", "label": 1}
+{"content": "Kalau beli satu set alat masak, dapat bonus panci kecil gak?", "label": 1}
+{"content": "Kak, mau tanya, stok baju couple lengan panjang masih ada?", "label": 1}
+{"content": "Ada promo khusus untuk member baru gak?", "label": 1}
+{"content": "Mau beli tas ransel ini, tapi ukuran yang paling besar masih ada?", "label": 1}
+{"content": "Kalau beli 2 tas, bisa dikirim pakai JNE YES?", "label": 1}
+{"content": "Kak, kalau mau ambil 5 produk, bisa dapat diskon khusus ga?", "label": 1}
+{"content": "Ini barangnya ready stock kan ya? Soalnya butuh cepat.", "label": 1}
+{"content": "Minim ordernya berapa pcs sih kak buat dapet harga reseller?", "label": 1}
+{"content": "Bisa kirim ke daerah Depok ga kak? Ongkirnya berapa?", "label": 1}
+{"content": "Ada promo ongkir gratis ga kak kalau pembelian di atas 200 ribu?", "label": 1}
+{"content": "Kalau beli banyak, ada bonus tambahan apa kak?", "label": 1}
+{"content": "Barangnya PO dulu atau langsung ada?", "label": 1}
+{"content": "Syarat jadi agen itu gimana kak?", "label": 1}
+{"content": "Ada cabang di Surabaya ga kak? Mau ambil langsung di toko.", "label": 1}
+{"content": "Kalau bayar pakai metode cicilan, bunganya berapa persen kak?", "label": 1}
+{"content": "Produk ini ready warna apa aja kak? Kalau mau sekalian beberapa, bisa dicampur?", "label": 1}
+{"content": "Berapa lama ya pengirimannya kalau ke Bandung?", "label": 1}
+{"content": "Ada garansi produk ga kak kalau rusak pas diterima?", "label": 1}
+{"content": "Kalau beli 10 biji, harganya bisa nego lagi ga?", "label": 1}
+{"content": "Kapan ada stok lagi kak buat model yang ini?", "label": 1}
+{"content": "Mau tanya, ini barang ori kan ya? Ada sertifikasinya?", "label": 1}
+{"content": "Minimal pembelian berapa untuk gratis ongkir?", "label": 1}
+{"content": "Bisa COD di area Jakarta Selatan ga kak?", "label": 1}
+{"content": "Ada promo bundling ga kak buat produk X dan Y?", "label": 1}
+{"content": "Kalau beli quantity banyak, bisa sekalian request packing khusus ga?", "label": 1}
+{"content": "Kapan kira-kira restock lagi kak? Suka banget sama yang ini.", "label": 1}
+{"content": "Mau info dong kak, ada paket hemat apa aja?", "label": 1}
+{"content": "Bisa kirim pakai ekspedisi lain ga kak, selain yang tercantum?", "label": 1}
+{"content": "Kalau saya pesan hari ini, kapan barangnya sampai?", "label": 1}
+{"content": "Ada promo khusus buat pelanggan baru ga kak?", "label": 1}
+{"content": "Kak, mau tanya, kalau beli 3 dapat potongan berapa persen?", "label": 1}
+{"content": "Ready stock yang warna hitam ga kak?", "label": 1}
+{"content": "Ada info lowongan reseller ga kak?", "label": 1}
+{"content": "Pengiriman ke luar pulau jawa bisa ga kak?", "label": 1}
+{"content": "Kalau beli lebih dari 5 pcs, ada bonus apa ya?", "label": 1}
+{"content": "Kak, ini preorder kan ya? Berapa lama PO-nya?", "label": 1}
+{"content": "Mau tanya soal syarat gabung jadi agen, gimana?", "label": 1}
+{"content": "Ada toko offline di Jogja ga kak?", "label": 1}
+{"content": "Kalau beli paket isi 10, harganya beda?", "label": 1}
+{"content": "Kak, ini ada promo cashback ga?", "label": 1}
+{"content": "Barang ini ready stock ga kak? Mau langsung pesan.", "label": 1}
+{"content": "Berapa minimal order biar dapat harga grosir?", "label": 1}
+{"content": "Bisa kirim ke luar negeri ga kak?", "label": 1}
+{"content": "Kalau ambil 2 produk, ongkirnya jadi berapa?", "label": 1}
+{"content": "Ada diskon khusus event tertentu ga kak?", "label": 1}
+{"content": "Kalau mau beli partai besar, ada harga spesial?", "label": 1}
+{"content": "Kak, kapan stok barang ini bakal ada lagi?", "label": 1}
+{"content": "Mau info harga reseller dong kak, minimal pembelian berapa?", "label": 1}
+{"content": "Bisa request pengiriman instan ga kak?", "label": 1}
+{"content": "Kalau beli sekarang, estimasi sampainya kapan?", "label": 1}
+{"content": "Ada promo buy 1 get 1 ga kak?", "label": 1}
+{"content": "Kak, kalau pesan 5 item, bisa gratis ongkir?", "label": 1}
+{"content": "Produk ini ready stock semua warna kan?", "label": 1}
+{"content": "Ada syarat khusus kalau mau jadi dropshipper?", "label": 1}
+{"content": "Sis, ini bahannya bagus ya? Keliatannya awet gitu. Tapi harganya agak di luar budget nih. Ada diskon ga?", "label": 1}
+{"content": "Boleh minta detail ukurannya ga kak? Agak bingung nih sama size chartnya. Kalau tuker size gampang ga prosedurnya?", "label": 1}
+{"content": "Aku suka banget sama model yang ini, tapi warnanya kok cuma ada ini ya? Ada warna lain ga selain hitam sama putih?", "label": 1}
+{"content": "Kalau beli 3 biji dapet harga grosir ga sis? Soalnya mau coba jual lagi nih, tapi mau liat respon pasar dulu.", "label": 1}
+{"content": "Hmm, ini PO ya? Kira-kira nyampe kapan ya kalau pesen sekarang? Soalnya butuh cepet nih buat acara minggu depan.", "label": 1}
+{"content": "Sis, kalau mau nambahin aksesoris yang ini bisa? Jadi sekalian checkout gitu. Biar ga repot bayar ongkir lagi.", "label": 1}
+{"content": "Keteranagan produknya kurang jelas nih. Kualitas bahannya gimana? Trus ini ada garansinya ga?", "label": 1}
+{"content": "Kok beda ya sama gambar di katalognya? Keliatannya lebih gelap warnanya. Boleh liat foto real pict nya ga?", "label": 1}
+{"content": "Kalau buat kado gitu, bisa dibungkusin kado ga sis? Trus sekalian nulis kartu ucapan gitu. Bisa nambah biaya?", "label": 1}
+{"content": "Ini sistemnya pre-order ya? Berapa lama biasanya PO nya? Kalau mau cancel di tengah jalan bisa ga?", "label": 1}
+{"content": "Kak, aku kemarin pesen barang yang sama di toko lain tapi datengnya beda. Ini beneran ori kan ya? Bisa kasih bukti otentikasi?", "label": 1}
+{"content": "Ada promo ongkir ga sis kalau pembelian di atas 200 ribu? Lumayan banget lho biar hemat. Hehe.", "label": 1}
+{"content": "Kalau barangnya ga sesuai ekspektasi, bisa retur ga? Pengembaliannya gimana prosedurnya? Repot ga?", "label": 1}
+{"content": "Sis, aku mau tanya nih. Kenapa kok harganya naik ya dari kemarin? Ada promo khusus ga buat pelanggan lama?", "label": 1}
+{"content": "Kalau mau ambil langsung di tempat bisa ga? Biar ga kena ongkir. Atau ada toko offline nya?", "label": 1}
+{"content": "Ini bahannya tebal ga sih? Takutnya tipis gitu kalo dipake. Udah banyak yang beli dan suka kah?", "label": 1}
+{"content": "Kalau aku mau ganti model lain, bisa ga? Soalnya aku baru sadar kayaknya yang ini kurang cocok. Belum dikirim kan ya?", "label": 1}
+{"content": "Ada opsi pembayaran cicilan ga kak? Pengen banget beli tapi budgetnya belum cukup nih.", "label": 1}
+{"content": "Sis, ini ready stock atau PO? Kalau PO, kira-kira sampai kapan ya? Butuh buat acara penting.", "label": 1}
+{"content": "Kalau beli dua, boleh beda warna ga? Trus ongkirnya jadi berapa totalnya?", "label": 1}
+{"content": "Ini kalau dipakai di kulit sensitif aman ga ya? Ada testimoni dari customer yang kulitnya mirip aku?", "label": 1}
+{"content": "Kak, bisa minta foto detail bagian jahitan sama bahan dari dekat ga? Mau mastiin kualitasnya.", "label": 1}
+{"content": "Ada potongan harga ga kalau beli partai besar? Mau coba stok buat dijual lagi di daerahku.", "label": 1}
+{"content": "Kalau pengiriman ke luar pulau Jawa, estimasi sampainya berapa lama ya? Ada opsi ekspedisi yang lebih cepat?", "label": 1}
+{"content": "Sis, ini kalau dicuci bakal luntur ga warnanya? Udah pernah ada yang komplain soal ini?", "label": 1}
+{"content": "Kalau mau custom ukuran bisa ga? Mau disesuaikan sama badan aku. Ada tambahan biaya ga?", "label": 1}
+{"content": "Kak, kalau mau cancel pesanan ini bisa ga? Keburu ada barang lain yang lebih cocok. Udah di proses belum ya?", "label": 1}
+{"content": "Ada opsi COD ga sis? Biar lebih aman aja gitu pas bayar. Terus ongkirnya berapa?", "label": 1}
+{"content": "Ini kalau dipakai pas panas gitu gerah ga ya? Bahannya nyerap keringat ga?", "label": 1}
+{"content": "Kalau beli produk ini, dapat bonus apa gitu ga? Kayak pouch atau stiker? Hehe.", "label": 1}
+{"content": "Sis, kok harganya beda sama yang di marketplace lain ya? Ada perbedaan kualitas kah?", "label": 1}
+{"content": "Kalau mau upgrade ke bahan yang lebih premium, ada pilihan lain ga? Atau harganya jadi berapa?", "label": 1}
+{"content": "Kak, bisa minta invoice resmi ga? Perlu buat klaim ke kantor soalnya.", "label": 1}
+{"content": "Ini pre-order ya? Kalau mau DP dulu sisanya nanti pas barang dateng bisa ga?", "label": 1}
+{"content": "Kalau mau ganti alamat pengiriman, masih bisa ga ya? Belum dikirim kan?", "label": 1}
+{"content": "Sis, ini bahannya tipis banget ga? Takutnya keliatan gitu kalau dipake. Ada foto pas dipake?", "label": 1}
+{"content": "Kalau beli satu set gitu, dapet diskon ga? Atau ada paket bundling yang lebih hemat?", "label": 1}
+{"content": "Kak, ini ready stock kan? Kalau pesen sekarang, dikirim kapan ya? Butuh cepet nih.", "label": 1}
+{"content": "Ada opsi lain buat pengirimannya ga? Selain yang ini, agak mahal ongkirnya.", "label": 1}
+{"content": "Kalau mau ganti warna, masih bisa ga? Baru mau pesen nih.", "label": 1}
+{"content": "Sis, ini kalau dipakai buat acara formal cocok ga ya? Atau lebih ke casual?", "label": 1}
+{"content": "Kalau beli beberapa item jadi satu ongkir kan ya? Nanti di checkout gimana caranya?", "label": 1}
+{"content": "Kak, ini bahannya ga gatal kan ya? Soalnya kulitku agak sensitif.", "label": 1}
+{"content": "Kalau mau cancel pesanan, bisa ga? Keburu ada diskon besar di toko lain.", "label": 1}
+{"content": "Sis, ada rekomendasi ukuran ga buat tinggi badan sekian dan berat badan sekian?", "label": 1}
+{"content": "Kalau beli dua, boleh beda model ga? Terus harganya gimana?", "label": 1}
+{"content": "Kak, ini kalau dicuci pakai mesin cuci aman ga? Nanti rusak ga?", "label": 1}
+{"content": "Ada promo gratis ongkir ga kalau pembelian hari ini?", "label": 1}
+{"content": "Kalau mau pesan tapi beda alamat sama alamatku, bisa ga? Buat kado.", "label": 1}
+{"content": "Halo kak, ini bajunya masih ready gak ya?\n\nKira-kira ongkir ke Jakarta Pusat berapa?\n\nAda diskon gak kak kalo beli dua?", "label": 1}
+{"content": "Siang kak, mau tanya dong soal paket usahanya.\n\nKalau buat pemula banget, mending ambil yang mana ya?\n\nAda yang bisa cicil gak kak?", "label": 1}
+{"content": "Kak, tas yang ini bahannya apa ya?\n\nAwet gak kak?\n\nWarnanya ada pilihan lain gak?", "label": 1}
+{"content": "Kak, ini kalo mau ambil 5 pcs, ada diskon lagi ga ya? Soalnya kemarin liat di toko sebelah agak beda harganya.\n\nBisa kurangin dikit ga kak? Lumayan buat ongkir soalnya.\n\nOke deh, saya pikir2 dulu ya kak, ntar kalo jadi saya kabarin lagi.", "label": 1}
+{"content": "Ini bahan bajunya beneran adem kan kak? Soalnya anak saya kulitnya sensitif.\n\nAda warna lain selain yang di foto ga kak? Yang lebih kalem gitu.\n\nBoleh minta foto aslinya ga kak? Agak ragu sama pencahayaan di foto produk.", "label": 1}
+{"content": "Sis, kalo ongkirnya bisa digabung sama pesanan kemarin ga? Soalnya mau nambah dikit lagi.\n\nKira-kira nyampe kapan ya kak kalo pesen hari ini?\n\nHmm, boleh tau estimasi pengirimannya ga kak? Biar bisa atur waktu nerima barang.", "label": 1}
+{"content": "Kak, ini produknya ready stock kan ya? Soalnya butuh cepet nih.\n\nKalo PO, kira-kira berapa lama ya kak jadinya?\n\nOke deh kak, saya tunggu update ketersediaannya ya.", "label": 1}
+{"content": "Halo kak, untuk produk yang ini, garansinya berapa lama ya?\n\nTerus kalo ada kerusakan pas dateng, bisa retur ga kak?\n\nSip, nanti saya cek detail garansinya lagi ya kak.", "label": 1}
+{"content": "Kak, ini bisa pake ekspedisi yang lebih murah ga ya? Ongkirnya agak berat di saya.\n\nAda rekomendasi ekspedisi lain ga kak yang lebih hemat?\n\nOke kak, saya coba cek dulu tarif ekspedisi yang kakak sebutin.", "label": 1}
+{"content": "Sis, kalo beli paket yang isi 3, tapi beda model bisa ga? Kayak mau nyobain aja.\n\nKalo ga bisa, ada paket lain yang lebih fleksibel ga kak?\n\nOke sis, makasih infonya. Nanti saya pertimbangkan lagi ya.", "label": 1}
+{"content": "Kak, ini finishingnya udah rapi belum ya? Keliatan agak kasar di foto.\n\nAda video detailnya ga kak? Biar lebih yakin.\n\nBaik kak, saya terima masukannya. Nanti saya coba cari video detailnya.", "label": 1}
+{"content": "Permisi kak, kalo mau bayar DP dulu bisa? Sisanya pas barang dateng?\n\nKira-kira DP nya berapa persen ya kak?\n\nOke kak, saya pertimbangkan dulu ya, ntar kalo oke saya kabarin lagi.", "label": 1}
+{"content": "Kak, ini kalo beli satuan harganya beda ya sama yang lusinan?\n\nKalo mau beli 1 lusin, tapi campur motif bisa?\n\nOke kak, makasih infonya. Nanti saya diskusikan dulu sama tim.", "label": 1}
+{"content": "Sis, ini untuk pengemasan aman kan ya? Soalnya saya mau kirim ke luar kota.\n\nAda opsi bubble wrap ekstra ga kak?\n\nSip sis, saya percaya sama pengemasan kalian. Nanti saya order ya.", "label": 1}
+{"content": "Kak, kalo mau jadi reseller, ada minimal order ga?\n\nTerus dapet support apa aja dari kakak?\n\nOke kak, nanti saya pelajari lagi syarat jadi reseller-nya.", "label": 1}
+{"content": "Permisi kak, ini stoknya tinggal berapa ya? Kalo habis, kapan restock?\n\nBisa minta tolong di-keep dulu ga kak kalo belum transfer?\n\nBaik kak, saya tunggu info restock-nya ya.", "label": 1}
+{"content": "Kak, bisa dibantu pilihkan warna yang paling laris ga kak?\n\nKalo yang ini warnanya cepet luntur ga?\n\nOke kak, saya coba lihat referensi warna yang kakak kasih.", "label": 1}
+{"content": "Sis, ini kalo mau tambah aksesoris dikit, bisa sekalian dipasang?\n\nKira-kira nambah biayanya berapa ya?\n\nSip sis, nanti saya pikirkan lagi kombinasi aksesorisnya.", "label": 1}
+{"content": "Kak, untuk pemakaiannya perlu perawatan khusus ga?\n\nAda tips biar awet gitu ga kak?\n\nOke kak, makasih tips perawatannya. Sangat membantu.", "label": 1}
+{"content": "Permisi kak, kalo mau bayar pake metode lain selain transfer bank bisa? Misal e-wallet?\n\nKalo pake e-wallet ada cashback ga kak?\n\nBaik kak, saya coba cek dulu opsi pembayaran yang ada.", "label": 1}
+{"content": "Kak, ini ukurannya ada yang lebih kecil/besar ga? Kayaknya yang ini agak ga pas.\n\nBisa di-custom ga kak kalo beda sedikit?\n\nOke kak, nanti saya ukur ulang lagi ya, makasih banyak.", "label": 1}
+{"content": "Sis, ini buat acara nanti tanggal sekian, kira-kira nyampe ga ya kak?\n\nKalo mau pake kurir instan, bisa ga?\n\nSip sis, saya pantau terus status pengirimannya ya.", "label": 1}
+{"content": "Kak, kalo beli 2, harganya bisa diskon jadi berapa?\n\nAda bonus gitu ga kak kalo ambil lebih dari satu?\n\nOke kak, saya coba pertimbangkan lagi harganya.", "label": 1}
+{"content": "Permisi kak, untuk bahan ini aman ga ya kalo kena air?\n\nKalo basah, keringnya cepet ga?\n\nBaik kak, berarti harus hati-hati ya kalo kena air.", "label": 1}
+{"content": "Kak, ini kalo udah dipake beberapa kali, warnanya bakal pudar ga?\n\nAda perawatan khusus biar warnanya awet?\n\nOke kak, makasih sarannya. Saya coba ikuti.", "label": 1}
+{"content": "Sis, ini ada model lain yang mirip tapi harganya lebih terjangkau ga?\n\nKalaupun beda dikit gapapa kak, asal kualitasnya oke.\n\nSip sis, nanti saya lihat-lihat lagi pilihan lain yang ada.", "label": 1}
+{"content": "Kak, ini bisa tukar ukuran ga kalo nanti kekecilan/kebesaran?\n\nOngkir retur ditanggung siapa kak?\n\nOke kak, berarti harus hati-hati pas milih ukuran ya.", "label": 1}
+{"content": "Permisi kak, kalo mau cicilan, bisa ga? Atau ada promo paylater?\n\nKira-kira tenornya berapa lama ya?\n\nBaik kak, saya cek dulu opsi cicilannya ya.", "label": 1}
+{"content": "Kak, ini kalo buat kado, bisa sekalian dibungkusin ga?\n\nBisa sekalian ditulisin kartu ucapan?\n\nOke kak, nanti saya kabari lagi kalo jadi mau dibungkusin.", "label": 1}
+{"content": "Sis, ini bahannya stretch ga kak? Mau dipake buat olahraga soalnya.\n\nKalo dipake gerak, nyaman ga?\n\nSip sis, berarti harus cari yang bahannya pas ya.", "label": 1}
+{"content": "Kak, ini kalo beli sekarang, kapan dikirimnya ya?\n\nKalo mau ambil sendiri ke toko bisa ga?\n\nOke kak, saya tunggu kabar pengirimannya.", "label": 1}
+{"content": "Permisi kak, untuk motif ini, ada pilihan warna lain ga?\n\nKalo yang ini, bahannya tebal atau tipis kak?\n\nBaik kak, saya coba bandingkan dulu motif dan bahannya.", "label": 1}
+{"content": "Kak, ini ada opsi pembayaran COD ga ya?\n\nKalo COD, ada biaya tambahan ga kak?\n\nOke kak, saya coba cek dulu syarat COD nya.", "label": 1}
+{"content": "Sis, kalo mau beli yang satuan, tapi ada minimal pembelian ga?\n\nKalo beli banyak, bisa dapet harga grosir?\n\nSip sis, nanti saya hitung dulu kebutuhannya.", "label": 1}
+{"content": "Kak, ini modelnya lagi promo ya? Kok kelihatannya lebih murah?\n\nAda promo lain ga kak selain yang ini?\n\nOke kak, makasih infonya. Nanti saya cek promo lainnya.", "label": 1}
+{"content": "Permisi kak, ini kalo udah dicuci sekali, bakal susut ga ya?\n\nKalo nyuci pake mesin cuci aman ga?\n\nBaik kak, berarti harus hati-hati pas nyucinya.", "label": 1}
+{"content": "Kak, ini warnanya di foto sama aslinya bakal sama banget ga?\n\nKalo warnanya agak beda, bisa ditukar ga?\n\nOke kak, berarti harus siap sama kemungkinan beda warna ya.", "label": 1}
+{"content": "Sis, kalo beli paket bundling, bisa pilih sendiri itemnya ga?\n\nAtau udah paketan gitu kak?\n\nSip sis, berarti harus sesuai paketnya ya.", "label": 1}
+{"content": "Kak, ini kalo mau dipake di acara outdoor, cocok ga?\n\nKalo kena panas matahari, warnanya bakal luntur ga?\n\nOke kak, saya pertimbangkan dulu buat acara outdoor-nya.", "label": 1}
+{"content": "Permisi kak, ini ada toko fisiknya ga? Mau coba langsung.\n\nKalo ada, alamatnya di mana ya?\n\nBaik kak, nanti saya coba cari info lokasinya.", "label": 1}
+{"content": "Kak, kalo mau ganti model, bisa ga setelah order?\n\nKalo beda harga, gimana?\n\nOke kak, berarti harus yakin dulu sebelum order ya.", "label": 1}
+{"content": "Sis, ini kalo buat anak umur sekian, cocoknya ukuran apa ya?\n\nKira-kira kepake sampe umur berapa?\n\nSip sis, nanti saya coba ukur anaknya dulu.", "label": 1}
+{"content": "Kak, ini bahannya tipis banget ga? Keliatan agak nerawang di foto.\n\nKalo dipake di tempat rame, aman ga?\n\nOke kak, berarti harus pakai daleman ya.", "label": 1}
+{"content": "Permisi kak, kalo mau join grup WA reseller ada syarat ga?\n\nBisa dikasih tau info grupnya?\n\nBaik kak, nanti saya cek dulu info grup reseller nya.", "label": 1}
+{"content": "Kak, ini kalo beli sekarang, bisa dikirim besok pagi?\n\nKalo mau ambil sendiri, bisa jam berapa?\n\nOke kak, saya tunggu kabar ketersediaan jadwal pengirimannya.", "label": 1}
+{"content": "Sis, ini motifnya limited edition ya kak?\n\nKalo udah sold out, bakal restock lagi ga?\n\nSip sis, berarti harus gercep kalo suka.", "label": 1}
+{"content": "Kak, untuk pengemasan kado, dikenakan biaya tambahan ga?\n\nBisa sekalian sama kartu ucapan?\n\nOke kak, nanti saya pertimbangkan lagi opsi pengemasan kadonya.", "label": 1}
+{"content": "Permisi kak, ini kalo dipake buat acara formal, cocok ga?\n\nBisa dipaduin sama aksesoris apa aja?\n\nBaik kak, saya coba cari inspirasi padu padannya.", "label": 1}
+{"content": "Kak, kalo mau tukar warna, bisa ga kak?\n\nTerus ongkirnya gimana?\n\nOke kak, berarti harus hati-hati pas pilih warna awal.", "label": 1}
+{"content": "Sis, ini kalo beli grosir, dapet katalog gitu ga?\n\nBisa minta pricelist khusus grosir?\n\nSip sis, nanti saya cek dulu detail pricelist grosirnya.", "label": 1}
+{"content": "Kak, ini kalo bahannya agak kasar, bisa dihalusin lagi ga?\n\nAtau ada opsi bahan lain yang lebih lembut?\n\nOke kak, berarti saya cari yang bahannya lebih halus ya.", "label": 1}
+{"content": "Permisi kak, kalo mau jadi dropshipper, gimana caranya?\n\nAda biaya pendaftaran?\n\nBaik kak, nanti saya pelajari dulu sistem dropshipnya.", "label": 1}
+{"content": "Kak, ini kalo mau dibeliin orang lain, bisa ga? Nanti saya transfer aja.\n\nKalo dia terima, tapi saya yang bayar, gimana?\n\nOke kak, nanti saya diskusikan dulu sama yang mau dibeliin.", "label": 1}
+{"content": "Halo kak, mau tanya soal promo yang kemarin itu masih ada gak ya?\n\nSoalnya kemarin belum sempet lihat-lihat detailnya.\n\nKira-kira sampai kapan ya promonya?", "label": 1}
+{"content": "Udah lihat produknya sih, bagus. Tapi harganya agak di atas budget nih kak. Ada rekomendasi produk lain yang mirip tapi lebih terjangkau gak?", "label": 1}
+{"content": "Untuk pengiriman, kira-kira butuh waktu berapa lama sampai ke Surabaya kak?\n\nKalau ambil beberapa barang sekaligus, ongkirnya bisa diskon gak ya?", "label": 1}
+{"content": "Kemarin sempet lihat ada diskon 10% ya kak? Masih berlaku gak?\n\nKalau beli hari ini masih bisa dapat?", "label": 1}
+{"content": "Kak, ini kalau mau custom sedikit desainnya, bisa gak ya?\n\nKira-kira nambah biaya berapa?\n\nDan prosesnya berapa lama?", "label": 1}
+{"content": "Boleh lihat testimoni lain gak kak?\n\nSoalnya ini pertama kali mau beli di sini.\n\nIngin lebih yakin aja.", "label": 1}
+{"content": "Udah cocok sih sama modelnya, tapi warnanya ada pilihan lain gak kak?\n\nKalau warna hitam ada?", "label": 1}
+{"content": "Kak, kalau untuk pembayaran, selain transfer bank, ada opsi lain gak?\n\nMisalnya e-wallet gitu bisa?", "label": 1}
+{"content": "Ini barangnya ready stok gak kak?\n\nKalau harus PO, kira-kira berapa lama ya?\n\nSoalnya butuh cepat nih.", "label": 1}
+{"content": "Kalau saya ambil 2 pcs, harganya bisa kurang lagi gak kak?\n\nSaya lihat di toko sebelah harganya agak miring nih.", "label": 1}
+{"content": "Kak, mau nanya soal garansi produknya.\n\nGaransinya berapa lama ya?\n\nTerus kalau ada kerusakan, proses klaimnya gimana?", "label": 1}
+{"content": "Kalau saya booking sekarang, tapi bayarnya minggu depan, bisa gak kak?\n\nSaya takut kehabisan stok soalnya.", "label": 1}
+{"content": "Kak, ini bahannya beneran premium gak ya?\n\nAda sertifikasinya atau gimana?\n\nIngin memastikan kualitasnya.", "label": 1}
+{"content": "Untuk ukuran, kalau ternyata kekecilan atau kebesaran, bisa tukar size gak kak?\n\nAda kebijakan retur atau tukar?", "label": 1}
+{"content": "Kak, kalau saya jadi beli, ada bonus tambahan gak?\n\nMisalnya free ongkir atau merchandise gitu?", "label": 1}
+{"content": "Udah lihat-lihat sih, tapi masih bingung antara produk ini sama yang itu kak.\n\nBisa bantu bandingin kelebihan dan kekurangannya?", "label": 1}
+{"content": "Kak, ini kalau mau ambil di toko langsung, ada diskon khusus gak?\n\nAtau harganya sama aja kayak online?", "label": 1}
+{"content": "Bisa minta detail spesifikasi teknisnya gak kak?\n\nTerutama untuk bagian...", "label": 1}
+{"content": "Kalau saya jadi reseller, ada harga khusus gak kak?\n\nTerus minimal ordernya berapa?", "label": 1}
+{"content": "Kak, ini kalau mau dibungkus kado, bisa gak?\n\nAda biaya tambahan gak ya?", "label": 1}
+{"content": "Sudah cocok sih, tapi harganya masih belum pas nih kak.\n\nBisa nego lagi gak ya?", "label": 1}
+{"content": "Kak, kalau pembayaran DP dulu, sisanya bisa dicicil juga gak?\n\nAtau harus lunas pas barang jadi?", "label": 1}
+{"content": "Sudah dipertimbangkan, tapi kayaknya masih belum yakin sama modelnya.\n\nAda model lain yang lebih basic gak kak?", "label": 1}
+{"content": "Kak, kalau mau lihat barangnya langsung, bisa datang ke mana ya?\n\nAda jam operasionalnya?", "label": 1}
+{"content": "Untuk pengemasan, aman sampai tujuan kan kak?\n\nBiasa pakai jasa apa?", "label": 1}
+{"content": "Kak, ini kalau pesan sekarang, kapan kira-kira dikirimnya?\n\nSaya butuh sebelum tanggal...", "label": 1}
+{"content": "Harganya udah nett kak?\n\nKalau ambil dua, bisa diskon lagi?", "label": 1}
+{"content": "Kalau saya mau lihat contoh hasil kerjanya, bisa dikirim sampelnya gak kak?\n\nAtau ada portofolio?", "label": 1}
+{"content": "Kak, mau nanya, kalau bahan bakunya dari mana ya?\n\nDan proses produksinya gimana?", "label": 1}
+{"content": "Ada promo khusus buat member baru gak kak?\n\nAtau ada program loyalitas?", "label": 1}
+{"content": "Kak, kalau saya mau jadi dropshipper, bisa gak?\n\nApa syaratnya?", "label": 1}
+{"content": "Untuk pengiriman luar pulau, ongkirnya berapa ya kak?\n\nDan estimasi sampainya berapa lama?", "label": 1}
+{"content": "Udah lihat, tapi kayaknya agak terlalu besar ya ukurannya.\n\nAda yang lebih kecil gak kak?", "label": 1}
+{"content": "Kak, kalau mau pesan dalam jumlah banyak, ada harga grosir gak?\n\nMinimal berapa pcs?", "label": 1}
+{"content": "Bisa minta katalog terbarunya gak kak?\n\nIngin lihat koleksi lainnya.", "label": 1}
+{"content": "Kak, ini kalau kualitas jahitan sama finishingnya gimana?\n\nAwet gak ya?", "label": 1}
+{"content": "Kalau saya bayar DP dulu, sisanya bisa pas barang sampai baru bayar?", "label": 1}
+{"content": "Kak, ini kalau ada cacat produksi, bisa diretur atau diganti baru gak?\n\nBagaimana prosedurnya?", "label": 1}
+{"content": "Sudah cek harga di tempat lain, kok beda ya kak?\n\nBisa jelaskan perbedaannya?", "label": 1}
+{"content": "Kak, kalau mau pesan custom tapi desainnya dari saya, bisa gak?\n\nDan kira-kira harganya jadi berapa?", "label": 1}
+{"content": "Ada opsi pembayaran cicilan 0% gak kak?\n\nKalau pakai kartu kredit tertentu?", "label": 1}
+{"content": "Kak, ini kalau saya beli sekarang, kapan dikirimnya?\n\nPerlu untuk acara minggu depan soalnya.", "label": 1}
+{"content": "Kalau saya sudah pernah beli sebelumnya, dapat diskon lagi gak kak?\n\nAtau ada promo khusus pelanggan lama?", "label": 1}
+{"content": "Kak, mau tanya, kalau bahan ini tahan air gak ya?\n\nAtau ada opsi bahan yang lebih tahan air?", "label": 1}
+{"content": "Sudah lihat produknya, tapi saya butuh yang fungsinya sedikit beda.\n\nAda rekomendasi?", "label": 1}
+{"content": "Kak, kalau saya mau ambil beberapa item tapi beda jenis, bisa digabung pengirimannya?\n\nDan ongkirnya jadi berapa?", "label": 1}
+{"content": "Bisa minta foto detail produknya dari berbagai sisi gak kak?\n\nIngin lihat tekstur dan detailnya.", "label": 1}
+{"content": "Kalau untuk pemakaian jangka panjang, apakah produk ini awet kak?\n\nAda garansi pemakaian?", "label": 1}
+{"content": "Halo kak, mau tanya dong. Itu kalau ongkir ke Surabaya berapa ya?\n\nOh gitu ya. Ada opsi ongkir yang lebih murah nggak kak? Mungkin pake cargo gitu?", "label": 1}
+{"content": "Sore kak, ini kemarin saya liat ada promo ya?\n\nWah, tapi kok harganya beda sekarang? Apa promonya udah habis ya?", "label": 1}
+{"content": "Permisi kak, mau nanya soal garansi produk Y.\n\nKalo misalnya rusak pas awal pemakaian, bisa tuker baru gak kak?", "label": 1}
+{"content": "Kak, mau order kaosnya ya. Tapi boleh milih warna satu-satu gak?\n\nOh gitu ya. Kalo seri warna gitu bisa kurang gak kak?", "label": 1}
+{"content": "Halo, ini kan mau lebaran ya. Ada paket hampers gak?\n\nKalo mau custom isi hampersnya bisa gak kak? Dan harganya gimana?", "label": 1}
+{"content": "Kak, mau liat katalog terbarunya dong.\n\nAda produk baru yang lebih hemat energi gak kak? Yang ini agak mahal ya.", "label": 1}
+{"content": "Permisi kak, mau tanya soal metode pembayaran.\n\nKalo bayar pake cicilan 0% bisa gak kak? Berapa lama tenornya?", "label": 1}
+{"content": "Kak, pesen baju yang model ini dong. Tapi kalo ukuran XL ada gak?\n\nKalo L gimana kak? Keliatannya agak ngepas ya di badan.", "label": 1}
+{"content": "Halo kak, mau tanya detail bahan produk Z ya.\n\nKalo dipake buat outdoor gitu awet gak kak? Kayaknya agak tipis.", "label": 1}
+{"content": "Kak, ini kalo mau dateng ke tokonya langsung bisa gak?\n\nJam bukanya sampe jam berapa kak? Mau coba liat barangnya langsung.", "label": 1}
+{"content": "Permisi, mau nanya soal ongkir lagi nih.\n\nKalo mau ambil sendiri di gudang bisa gak kak? Biar lebih hemat.", "label": 1}
+{"content": "Kak, tertarik sama tas ini. Kalo mau tambah aksesoris gitu bisa sekalian?\n\nAda pilihan aksesorisnya apa aja kak? Dan nambah biayanya berapa?", "label": 1}
+{"content": "Halo, ini kemarin liat ada testimoni bagus soal produk A.\n\nKalo buat kulit sensitif aman gak kak? Ada efek sampingnya?", "label": 1}
+{"content": "Kak, mau order sepatu sport nih.\n\nKalo mau tuker ukuran lain bisa gak kak? Misalnya kekecilan pas dateng.", "label": 1}
+{"content": "Permisi kak, mau tanya soal ketersediaan stok.\n\nProduk B ini restocknya kapan ya? Atau ada warna lain yang ready?", "label": 1}
+{"content": "Kak, mau nanya soal pengiriman ekspres.\n\nKalo mau barang sampe sebelum hari H bisa gak kak? Ada biaya tambahan?", "label": 1}
+{"content": "Halo, ini mau tanya soal sistem reseller.\n\nMinimal ordernya berapa kak? Trus margin keuntungannya berapa persen?", "label": 1}
+{"content": "Kak, tertarik sama jam tangan ini. Kalo mau ukir nama bisa?\n\nAda biaya tambahan buat ukir nama gak kak? Dan prosesnya berapa lama?", "label": 1}
+{"content": "Permisi, ini kalo mau beli satuan bisa gak?\n\nAtau emang harus ambil paket bundling ya kak? Sayang kalo gak kepake semua.", "label": 1}
+{"content": "Kak, mau tanya soal kemasan produk C.\n\nBisa dibungkus kado gak kak? Mau buat kado ulang tahun.", "label": 1}
+{"content": "Halo, mau tanya soal tas ini. Kalo buat laptop 15 inch muat gak?\n\nAda kompartemen khusus buat laptopnya gak kak?", "label": 1}
+{"content": "Kak, ini kok harganya beda sama yang di website?\n\nAda promo khusus di DM aja gak kak?", "label": 1}
+{"content": "Permisi, mau tanya soal pemakaian produk D.\n\nAda panduan lengkapnya gak kak? Atau video tutorial?", "label": 1}
+{"content": "Kak, kalo beli 2 pcs dapet diskon gak?\n\nTerus ongkirnya jadi gratis gak kak kalo ambil 2?", "label": 1}
+{"content": "Halo, ini mau nanya soal pembayaran DP.\n\nBerapa persen DP nya kak? Dan kapan pelunasan terakhirnya?", "label": 1}
+{"content": "Kak, tertarik sama jaket ini. Kalo bahannya anti air gak?\n\nTerus kalo kena hujan deres gimana kak? Apa tetep tembus?", "label": 1}
+{"content": "Permisi, mau tanya soal pengembalian barang.\n\nKalo gak cocok ukurannya bisa tuker gak kak? Ongkirnya gimana?", "label": 1}
+{"content": "Kak, mau nanya soal stok sepatu E.\n\nUdah mau habis ya? Kapan kira-kira restock lagi?", "label": 1}
+{"content": "Halo, ini mau tanya soal paket bundling.\n\nKalo mau ganti salah satu item bisa gak kak? Atau harus sesuai paket?", "label": 1}
+{"content": "Kak, mau tanya soal jasa instalasi produk F.\n\nUdah termasuk biaya pasang gak kak? Atau ada biaya tambahan?", "label": 1}
+{"content": "Permisi, mau tanya soal garansi mesin.\n\nKalo rusak setelah pemakaian setahun gimana kak? Masih ada garansi?", "label": 1}
+{"content": "Kak, kalo beli 3 pcs, dapet bonus apa nih?\n\nAda diskon tambahan gak kak kalo beli banyak?", "label": 1}
+{"content": "Halo, mau tanya soal bahan kaosnya.\n\nKalo buat olahraga gitu nyerap keringat gak kak? Atau bikin gerah?", "label": 1}
+{"content": "Kak, ini ada diskon khusus buat followers gak?\n\nAtau promo lain kalo repost postingan kakak?", "label": 1}
+{"content": "Permisi, mau tanya soal pengiriman luar pulau.\n\nBerapa lama biasanya sampe kak? Dan berapa biayanya?", "label": 1}
+{"content": "Kak, mau pesen kemeja tapi ukurannya custom.\n\nBisa gak kak? Kira-kira harganya jadi berapa?", "label": 1}
+{"content": "Halo, ini mau tanya soal produk G yang baru launching.\n\nKelebihannya apa aja kak dibanding produk lama?", "label": 1}
+{"content": "Kak, kalo mau bayar pake transfer bank langsung bisa?\n\nNanti dikirim bukti transfernya ke sini ya kak?", "label": 1}
+{"content": "Permisi, mau tanya soal garansi baterai.\n\nBerapa lama garansi baterainya kak? Ada garansi pemakaian?", "label": 1}
+{"content": "Kak, mau tanya soal model tas H ini.\n\nKalo buat dibawa traveling cocok gak? Banyak muat?", "label": 1}
+{"content": "Halo, ini mau tanya soal promo cashback.\n\nAda minimal pembeliannya gak kak biar dapet cashback?", "label": 1}
+{"content": "Kak, kalo beli 5 pcs dapet harga grosir gak?\n\nTerus kalo mau milih warna beda-beda bisa?", "label": 1}
+{"content": "Permisi, mau tanya soal metode pengiriman same day.\n\nJam berapa terakhir order biar bisa dikirim hari ini kak?", "label": 1}
+{"content": "Kak, mau tanya soal bahan celana J.\n\nKalo buat aktivitas outdoor gitu kuat gak? Gampang sobek?", "label": 1}
+{"content": "Halo, ini mau tanya soal paket trial produk K.\n\nAda paket yang lebih kecil gak kak? Mau coba dulu.", "label": 1}
+{"content": "Kak, kalo mau cicilan 6 bulan bunganya berapa?\n\nAda biaya admin bulanan gak kak?", "label": 1}
+{"content": "Permisi, mau tanya soal stok baju L.\n\nUdah mau habis ya? Kapan kira-kira restock lagi warna ini?", "label": 1}
+{"content": "Kak, mau tanya soal pengiriman reguler.\n\nPerkiraan sampainya kapan ya kak kalau order sekarang?", "label": 1}
+{"content": "Halo, ini mau tanya soal garansi service.\n\nKalo udah habis masa garansi, masih bisa service gak kak? Berapa biayanya?", "label": 1}

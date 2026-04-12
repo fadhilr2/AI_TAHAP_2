@@ -1,62 +1,74 @@
 [
   {
     "account_name": "aerostreet",
-    "location": "Klaten"
+    "category": "sepatu"
   },
   {
     "account_name": "jiniso.id",
-    "location": "Jakarta"
+    "category": "baju"
   },
   {
     "account_name": "bittersweetbynajla",
-    "location": "Jakarta"
+    "category": "makanan"
   },
   {
     "account_name": "lokasaji.official",
-    "location": "Jakarta"
+    "category": "makanan"
   },
   {
     "account_name": "geoff_max",
-    "location": "Bandung"
+    "category": "sepatu"
+  },
+
+
+  {
+    "account_name": "kopikenangan.id",
+    "category": "minuman"
   },
   {
-    "account_name": "heylook.official",
-    "location": "Tangerang"
+    "account_name": "esteh.indonesia",
+    "category": "minuman"
+  },
+
+  {
+    "account_name": "somethinc",
+    "category": "skincare"
   },
   {
-    "account_name": "roughneck1991",
-    "location": "Depok"
+    "account_name": "scarlettwhitening",
+    "category": "skincare"
   },
   {
-    "account_name": "beliyacosmetic",
-    "location": "Yogyakarta"
+    "account_name": "avoskinbeauty",
+    "category": "skincare"
+  },
+
+  {
+    "account_name": "elzattahijab",
+    "category": "hijab"
   },
   {
-    "account_name": "kanky.official",
-    "location": "Surabaya"
+    "account_name": "dauky.official",
+    "category": "busana muslim"
   },
+
   {
-    "account_name": "pvnshoes",
-    "location": "Jakarta"
+    "account_name": "brodo",
+    "category": "tas & aksesoris kulit"
   },
+
   {
-    "account_name": "camille.beauty",
-    "location": "Jakarta"
+    "account_name": "rooang.official",
+    "category": "dekorasi & furnitur lokal"
   },
+
   {
-    "account_name": "callathelabel",
-    "location": "Bandung"
+    "account_name": "herbilogy",
+    "category": "herbal & suplemen"
   },
+
   {
-    "account_name": "bro.do",
-    "location": "Bandung"
-  },
-  {
-    "account_name": "azaria.shoes",
-    "location": "Bogor"
-  },
-  {
-    "account_name": "scarlett_whitening",
-    "location": "Jakarta"
+    "account_name": "maicih.official",
+    "category": "camilan"
   }
 ]

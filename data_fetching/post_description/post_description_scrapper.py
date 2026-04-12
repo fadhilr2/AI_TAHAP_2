@@ -119,12 +119,13 @@ async def main():
     SCRIPT_DIR = Path(__file__).resolve().parent
     filepath = SCRIPT_DIR / "accounts.json"
     df = pd.read_json(filepath)
+    # 0 done
     # 1 done
     # 2 done
     # 3 done
-    # 4 done
-    # 5 
-    posts = await get_user_posts(df["account_name"][4])
+    # 4 done 
+    #6 nanti skip aja
+    posts = await get_user_posts(df["account_name"][5])
 
 
         
